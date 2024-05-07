@@ -1,6 +1,8 @@
 <!-- Título -->
 # Estrutura “repita-até” — Prática
 
+Colocando em Prática: Utilizando a Estrutura 'repita-até' para Resolver Problemas e Alcançar Objetivos.
+
 ***Conteúdo da Aula:***
 
 Feito na ferramenta *Scratch*.
